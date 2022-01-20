@@ -70,6 +70,8 @@
     - 트랜잭션을 사용할 때 주의할 점
     - 트랜잭션 격리 수준(Transaction Isolation Level)
     - DBMS 는 어떻게 트랜잭션을 관리할까?
+- Key 종류
+- CRUD 
 - SQL Join
 - SQL injection
 - Anomaly
@@ -87,7 +89,7 @@
 - Redis
 - PostgreSQL의 장점은 무엇일까요?
     - postgreSQL vs Elastic Search
-- Key 종류
+
 - Nested Loop 조인은 무엇일까요?
 - Windows 함수는 무엇이고 어떻게 작성할까요?
 - KNN 알고리즘을 쿼리로 구현할 수 있을까요?
