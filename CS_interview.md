@@ -228,3 +228,12 @@
 - CPython vs Pypy
 - deep copy vs shallow copy
 - *args, \**kwargs
+- 
+## Reference
+- https://github.com/WeareSoft/tech-interview?fbclid=IwAR0AhH2t4FhhawIHZJ5BKD35rj6zHZf4Efhh8TIpBtnmCTaO2SOwhlYqBlQ
+- https://github.com/gyoogle/tech-interview-for-devel?fbclid=IwAR2VgV8N6U_xEmFi3hYLWPIZGQ55fhyQNVmswgMKiakby671RxZoKpYHnFQ
+- https://github.com/zzsza/Datascience-Interview-Questions?fbclid=IwAR1sVmRVTTRq73bwxHriYNyxDJG5mJzmtjQB01-jh16OefLFJCQsCyp7lf8
+- https://github.com/boostcamp-ai-tech-4/ai-tech-interview?fbclid=IwAR25-s3Viqwjaj2MSwTHKq7-xYcpirfQKBOaZv_wWLb6XMYFg9Sc_SGfewc#table-of-contents
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner?fbclid=IwAR2Jw2yOUoN1sKaSRbxHtDP3JmYsjtr548BkH1sNUp7RAIpImAoVQiXAWrw
+- https://github.com/qkraudghgh/coding-interview/blob/master/Interview/question/previous_interview.md
+- https://github.com/Team-Neighborhood/I-want-to-study-Data-Science?fbclid=IwAR23E91-eFv6YhNM_T9-I9CIhFXPXysPRofAg0vFOyHQg0cjlrbWV4Z5xjI
