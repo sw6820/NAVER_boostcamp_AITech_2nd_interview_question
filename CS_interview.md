@@ -217,6 +217,7 @@
 - 패리티 비트 & 해밍 코드
 - ARM 프로세서
 - RAID
+## Language
 ### Python
 - GIL
 - 매크로 사용법
@@ -228,10 +229,19 @@
 - CPython vs Pypy
 - deep copy vs shallow copy
 - *args, \**kwargs
-- 
+### Java
+### C
+### C++
+### Javascript
+### Spring
+## Web
+## Linux
+## Design Pattern
+## Software Engineering
+
 ## Reference
 - https://github.com/WeareSoft/tech-interview?fbclid=IwAR0AhH2t4FhhawIHZJ5BKD35rj6zHZf4Efhh8TIpBtnmCTaO2SOwhlYqBlQ
-https://github.com/gyoogle/tech-interview-for-developer?fbclid=IwAR2VgV8N6U_xEmFi3hYLWPIZGQ55fhyQNVmswgMKiakby671RxZoKpYHnFQ
+- https://github.com/gyoogle/tech-interview-for-developer?fbclid=IwAR2VgV8N6U_xEmFi3hYLWPIZGQ55fhyQNVmswgMKiakby671RxZoKpYHnFQ
 - https://github.com/zzsza/Datascience-Interview-Questions?fbclid=IwAR1sVmRVTTRq73bwxHriYNyxDJG5mJzmtjQB01-jh16OefLFJCQsCyp7lf8
 - https://github.com/boostcamp-ai-tech-4/ai-tech-interview?fbclid=IwAR25-s3Viqwjaj2MSwTHKq7-xYcpirfQKBOaZv_wWLb6XMYFg9Sc_SGfewc#table-of-contents
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner?fbclid=IwAR2Jw2yOUoN1sKaSRbxHtDP3JmYsjtr548BkH1sNUp7RAIpImAoVQiXAWrw
