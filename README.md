@@ -1,1 +1,1 @@
-# naver_boostcamp_aitech_2nd_interview_question
+# NAVER_boostcamp_AITech_2nd_interview_question
