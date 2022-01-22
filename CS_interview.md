@@ -231,6 +231,22 @@
 - CPython vs Pypy
 - deep copy vs shallow copy
 - *args, \**kwargs
+- 26 Essential Python Interview Questions from Adeva
+- 20 Python interview questions and answers
+- 11 Essential Python Interview Questions from Toptal
+- A listing of questions that could potentially be asked for a python job listing
+- Interview Questions for both beginners and experts
+- Interview Cake Python Interview Questions
+- Python Frequently Asked Questions (Programming)
+- Python interview questions collected by Reddit users
+- Top 25 Python Interview Questions from Career Guru
+- Python Interview 10 questions from Corey Schafer
+- Python interview questions. Part I. Junior
+- Python interview questions. Part II. Middle
+- Python interview questions. Part III. Senior
+- Python Interview Questions and Answers (2019)
+- 100 Python Interview Questions - Quick Refresher
+- Top 100 Python Interview Questions from Edureka (2021)
 ### Java
 ### C
 ### C++
@@ -250,3 +266,4 @@
 - https://github.com/qkraudghgh/coding-interview/blob/master/Interview/question/previous_interview.md
 - https://github.com/Team-Neighborhood/I-want-to-study-Data-Science?fbclid=IwAR23E91-eFv6YhNM_T9-I9CIhFXPXysPRofAg0vFOyHQg0cjlrbWV4Z5xjI
 - https://github.com/jwasham/coding-interview-university
+- https://github.com/DopplerHQ/awesome-interview-questions
