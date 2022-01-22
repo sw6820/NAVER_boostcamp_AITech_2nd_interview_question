@@ -8,12 +8,13 @@
     - 프로그램(Program)
     - 프로세서(Processor)
 - multicore vs single core
+- 멀티 프로세스 대신 멀티 스레드를 사용하는 이유를 설명해주세요.
+- 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.
 - 인터럽트(Interrupt)
 - 시스템콜(System call)
 - 메모리(Memory)
 - 파일 시스템
 - 페이지폴트
-- 멀티 프로세스 대신 멀티 스레드를 사용하는 이유를 설명해주세요.
 - 캐시의 지역성에 대해 설명해주세요.
     - locality
     - cahing line
@@ -31,7 +32,6 @@
     - 가상메모리 하는 일
     - Demanding Paging(요구 페이징)
 - 교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.
-- 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.
 - 외부 단편화와 내부 단편화에 대해 설명해주세요.
 - PCB
 - Context Switching이 무엇인지 설명하고 과정을 나열해주세요.
@@ -51,17 +51,11 @@
     - 인덱스는 크게 Hash 인덱스와 B+Tree 인덱스가 있습니다. 이것은 무엇일까요?
     - 인덱스 Scan 방식은 무엇이 있나요?
     - 인덱스 설계시 NULL값은 고려되야 할까요?
-- NoSQL
-    - NoSQL vs RDBMS
-    - Key-Value Model
-    - Document Model
-    - Column Model
-    - Graph Model
 - 정규화
     - 정규화 탄생 배경
     - 정규화란 무엇인가
     - 정규화의 종류
-    - 정규화의 장단점
+    - 정규화의 장단점    - 
 - 트랜잭션(Transaction)이란 무엇인가?
     - 트랜잭션과 Lock
     - 트랜잭션의 특성
@@ -69,6 +63,12 @@
     - 트랜잭션을 사용할 때 주의할 점
     - 트랜잭션 격리 수준(Transaction Isolation Level)
     - DBMS 는 어떻게 트랜잭션을 관리할까?
+- NoSQL
+    - NoSQL vs RDBMS
+    - Key-Value Model
+    - Document Model
+    - Column Model
+    - Graph Model
 - Key 종류
 - CRUD 
 - SQL Join
@@ -88,7 +88,6 @@
 - Redis
 - PostgreSQL의 장점은 무엇일까요?
     - postgreSQL vs Elastic Search
-
 - Nested Loop 조인은 무엇일까요?
 - Windows 함수는 무엇이고 어떻게 작성할까요?
 - KNN 알고리즘을 쿼리로 구현할 수 있을까요?
@@ -112,13 +111,13 @@
 - OSI 7계층
 - TCP/IP의 각 계층을 설명해주세요.
 - OSI 7계층와 TCP/IP 계층의 차이를 설명해주세요.
-- Frame, Packet, Segment, Datagram을 비교해주세요.
 - TCP/IP의 개념
 - TCP와 UDP의 차이를 설명해주세요.
 - TCP와 UDP의 헤더를 비교해주세요.
 - TCP의 3-way-handshake와 4-way-handshake를 비교 설명해주세요.
 - TCP의 연결 설정 과정(3단계)과 연결 종료 과정(4단계)이 단계가 차이나는 이유가 무엇인가요?
 - TCP/IP 흐름제어 & 혼잡제어
+- Frame, Packet, Segment, Datagram을 비교해주세요.
 - 대칭키 & 공개키
 - 만약 Server에서 FIN 플래그를 전송하기 전에 전송한 패킷이 Routing 지연이나 패킷 유실로 인한 재전송 등으로 인해 FIN 패킷보다 늦게 도착하는 상황이 발생하면 어떻게 될까요?
 - 초기 Sequence Number인 ISN을 0부터 시작하지 않고 난수를 생성해서 설정하는 이유가 무엇인가요?
@@ -126,20 +125,18 @@
 - HTTP 문제점
 - HTTP 요청/응답 헤더의 구조를 설명해주세요.
 - HTTP와 HTTPS 동작 과정을 비교해주세요.
-- CORS가 무엇인가요?
 - HTTP GET과 POST 메서드를 비교/설명해주세요.
+- CORS가 무엇인가요?
 - 쿠키(Cookie)와 세션(Session)을 설명해주세요.
 - DNS가 무엇인가요?
 - DNS round robin 방식
 - 웹 통신 큰 흐름
 - TLS/SSL handshake
 - 로드 밸런싱(Load Balancing)
-- Blocking,Non-blocking & Synchronous,Asynchronous
-- Blocking & Non-Blocking I/O
+- Blocking,Non-blocking I/O & Synchronous,Asynchronous
 - REST와 RESTful의 개념을 설명하고 차이를 말해주세요.
 - 소켓(Socket)이 무엇인가요? 자신 있는 언어로 간단히 소켓 생성 예시를 보여주세요.
 - Socket.io와 WebSocket의 차이를 설명해주세요.
-- Frame, Packet, Segment, Datagram
 - IPv4와 IPv6 차이를 설명해주세요.
 - MAC Address가 무엇인가요?
 - 라우터와 스위치, 허브의 차이를 설명해주세요.
@@ -190,12 +187,15 @@
 - Radix Sort
 - 최장증가수열(LIS)
 - 최소공통조상(LCA)
-
 - Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithm
 - Graph
-- Graph Traversal: BFS, DFS
+    - directed
+    - undirected
+    - adjacency matrix
+    - adjacency list
+    - Graph Traversal: BFS, DFS
 - Graph vs Tree
 - Binary Heap
 - Shortest Path
@@ -249,3 +249,4 @@
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner?fbclid=IwAR2Jw2yOUoN1sKaSRbxHtDP3JmYsjtr548BkH1sNUp7RAIpImAoVQiXAWrw
 - https://github.com/qkraudghgh/coding-interview/blob/master/Interview/question/previous_interview.md
 - https://github.com/Team-Neighborhood/I-want-to-study-Data-Science?fbclid=IwAR23E91-eFv6YhNM_T9-I9CIhFXPXysPRofAg0vFOyHQg0cjlrbWV4Z5xjI
+- https://github.com/jwasham/coding-interview-university
