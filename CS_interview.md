@@ -5,12 +5,11 @@
 ### Operating System
 - 운영체제란
 - 프로세스와 스레드의 차이(Process vs Thread)를 알려주세요.
-- 프로그램(Program)
-- 프로세서(Processor)
+    - 프로그램(Program)
+    - 프로세서(Processor)
 - multicore vs single core
 - 인터럽트(Interrupt)
 - 시스템콜(System call)
-
 - 메모리(Memory)
 - 파일 시스템
 - 페이지폴트
