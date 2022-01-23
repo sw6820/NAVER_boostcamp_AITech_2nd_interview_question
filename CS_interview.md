@@ -45,12 +45,11 @@
     - 데이터베이스 성능
     - 데이터베이스 풀
 - Index
-    - Index 란 무엇인가
-    - Index 의 자료구조
+    - Index 란 무엇인가    
     - Primary index vs Secondary index
     - Composite index
     - Index 의 성능과 고려해야할 사항
-    - 인덱스는 크게 Hash 인덱스와 B+Tree 인덱스가 있습니다. 이것은 무엇일까요?
+    - Index 의 자료구조는 크게 Hash 인덱스와 B+Tree 인덱스가 있습니다. 이것은 무엇일까요?
     - 인덱스 Scan 방식은 무엇이 있나요?
     - 인덱스 설계시 NULL값은 고려되야 할까요?
 - 정규화
