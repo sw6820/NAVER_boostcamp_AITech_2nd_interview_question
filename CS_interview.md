@@ -10,6 +10,7 @@
 - multicore vs single core
 - 멀티 프로세스 대신 멀티 스레드를 사용하는 이유를 설명해주세요.
 - 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.
+- 프로세스 주소공간
 - 인터럽트(Interrupt)
 - 시스템콜(System call)
 - 메모리(Memory)
@@ -32,6 +33,7 @@
     - 가상메모리 하는 일
     - Demanding Paging(요구 페이징)
 - 교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.
+- Race Condition
 - 외부 단편화와 내부 단편화에 대해 설명해주세요.
 - PCB
 - Context Switching이 무엇인지 설명하고 과정을 나열해주세요.
