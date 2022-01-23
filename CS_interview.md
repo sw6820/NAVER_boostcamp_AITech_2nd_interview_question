@@ -11,23 +11,23 @@
 - 멀티 프로세스 대신 멀티 스레드를 사용하는 이유를 설명해주세요.
 - 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.
 - 프로세스 주소공간
+- Thread-safe에 대해 설명해주세요. (hint: critical section)
 - 인터럽트(Interrupt)
 - 시스템콜(System call)
-- 메모리(Memory)
 - 파일 시스템
-- 페이지폴트
 - 캐시의 지역성에 대해 설명해주세요.
     - locality
     - cahing line
-- Thread-safe에 대해 설명해주세요. (hint: critical section)
 - 동기화 객체의 종류
 - 뮤텍스와 세마포어의 차이를 설명해주세요.
 - 스케줄러가 무엇이고, 단기/중기/장기로 나누는 기준에 대해 설명해주세요.
 - CPU 스케줄러인 FCFS, SJF, SRTF, Priority Scheduling, RR에 대해 간략히 설명해주세요.
 - 동기와 비동기의 차이를 설명해주세요.
+- 메모리(Memory)
 - 메모리 관리 전략에는 무엇이 있는지 간략히 설명해주세요.
 - 페이징 & 세그멘테이션(PDF)
 - 페이지 교체 알고리즘
+- 페이지폴트
 - 가상 메모리에 대해 설명해주세요.
     - 배경
     - 가상메모리 하는 일
@@ -156,8 +156,7 @@
 - linked list
     - single linked list
     - double linked list
-    - circular linked list
-    
+    - circular linked list    
 - hash table(해시함수, 충돌해결(오픈어드레싱, 세퍼레이트 체이닝), resize)
 - stack
 - queue
@@ -215,10 +214,10 @@
 - 컴퓨터의 구성
 - 중앙처리장치(CPU) 작동 원리
 - 캐시 메모리
-- 고정 소수점 & 부동 소수점
 - 패리티 비트 & 해밍 코드
 - ARM 프로세서
 - RAID
+- 고정 소수점 & 부동 소수점
 ## Language
 ### Python
 - GIL
