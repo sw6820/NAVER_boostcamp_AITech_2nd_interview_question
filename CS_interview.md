@@ -158,9 +158,18 @@
     - double linked list
     - circular linked list    
 - hash table(해시함수, 충돌해결(오픈어드레싱, 세퍼레이트 체이닝), resize)
+    - hash function
+    - collision
+        - open addresing
+            - linear probing
+            - quadratic probing
+        - separate chaining
+            - double hashing
+    -   resize 
 - stack
 - queue
     - circular queue
+    - dequeue
 - graph vs tree
 - binary tree
     - full binary tree
@@ -184,8 +193,6 @@
     - 현실에서 quick 소트를 merge보다 많이 쓰는 이유
 - Counting Sort
 - Radix Sort
-- 최장증가수열(LIS)
-- 최소공통조상(LCA)
 - Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithm
@@ -207,6 +214,8 @@
 - Union-find
 - Topological sort
 - 비트마스크(BitMask)
+- 최장증가수열(LIS)
+- 최소공통조상(LCA)
 - Fibonacci에서의 세 가지(Recursion, Dynamic Programming, 반복) 방식에 대한 시간복잡도와 공간복잡도 차이
 - Factorial for loop vs recursive vs 쪼개서 계산 vs multicore 에서의 작동
 ### Computer Architectrue
