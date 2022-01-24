@@ -192,6 +192,8 @@
 - Quick Sort
     - 현실에서 quick 소트를 merge보다 많이 쓰는 이유
 - Counting Sort
+- Bucket Sort
+- Lexicographci Sort
 - Radix Sort
 - Divide and Conquer
 - Dynamic Programming
