@@ -210,6 +210,7 @@
     - Dijkstra
     - Floyd-Warshall
     - Bellman-Ford
+    - *A
 - Minimum Spanning Tree
     - Prim
     - Kruskal
