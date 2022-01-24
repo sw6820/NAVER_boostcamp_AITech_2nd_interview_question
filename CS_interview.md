@@ -65,11 +65,16 @@
     - 트랜잭션 격리 수준(Transaction Isolation Level)
     - DBMS 는 어떻게 트랜잭션을 관리할까?
 - NoSQL
-    - NoSQL vs RDBMS
-    - Key-Value Model
-    - Document Model
-    - Column Model
-    - Graph Model
+    - NoSQL vs RDBMS    
+    - 저장방식에 따른 분류
+        - Key-Value Model
+        - Document Model
+        - Column Model
+        - Graph Model
+    - CAP 이론
+        - 일관성
+        - 가용성
+        - 네트워크 분할 허용성
 - Key 종류
 - CRUD 
 - SQL Join
@@ -100,12 +105,7 @@
 - 동작하는 MySQL에 Alter table을 하면 안되는 이유를 설명해주세요. 그리고 대안을 설명해주세요
 - 빡세게 동작하고 있는 MySQL을 백업뜨기 위해서는 어떤 방법이 필요할까요?
 
-<!-- - CAP 이론
-- 일관성
-- 가용성
-- 네트워크 분할 허용성
-- 저장방식에 따른 분류
- -->
+
 
 
 ### Network
