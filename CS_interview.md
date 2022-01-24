@@ -1,4 +1,5 @@
 # NAVER_boostcamp_AITech_2nd_interview_question_CS
+- Reference 이외의 질문들은 면접때 직접 받은 질문도 섞여있습니다. 
 
 ## CS
 
