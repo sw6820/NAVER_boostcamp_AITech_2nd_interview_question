@@ -80,6 +80,35 @@
 - 50개의 작은 의사결정 나무는 큰 의사결정 나무보다 괜찮을까요? 왜 그렇게 생각하나요?
 - 스팸 필터에 로지스틱 리그레션을 많이 사용하는 이유는 무엇일까요?
 - OLS(ordinary least squre) regression의 공식은 무엇인가요?
+- ML 도입 이유
+- 지도학습 vs 비지도학습 vs 강화학습
+    - 지도학습
+    - 비지도학습
+    - 강화학습
+- Naive bayes 에서 Naive는?
+- PCA를 쓰는 경우
+- SVM 알고리즘 자세히 설명하시오
+    - SVM에서 support vectors가 무엇인가
+- Cross-Validataion 이 무엇인가?
+- ML에서 Bias는 무엇인가?
+- Classification vs Regression
+- F1 score가 뭔가? 어떻게 쓰나?
+- Precision & Recall 정의
+- Overfitting & Underfitting 대처법
+- 인공 신경망이 무엇인가
+- Loss Function & Cost function 정의, 차이점
+- Ensemble Learning이 무엇인가?
+- 어느 ML 알고리즘을 사용할지 어떻게 확신하나
+- Outlier Values를 어떻게 다루나
+- Random Forest 정의, 작동 방식
+- K-means Clustering에서 K를 어떻게 고르나
+- dataset의 Normality를 확인하는 방법
+- Logistic Regression을 2가지 이상의 클래스에 사용 가능한가?
+- Correlation & Covariance 설명
+- P-value 설명
+- Parametric & Non-Parametric 모델 설명
+- 강화학습이 뭔가?
+- Sigmoid vs Softmax 
 #### CV
 - OpenCV 라이브러리만을 사용해서 이미지 뷰어(Crop, 흑백화, Zoom 등의 기능 포함)를 만들어주세요
 - 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법은 무엇인가요?
@@ -245,3 +274,4 @@
 - https://www.mlstack.cafe/interview-questions/recommendation-systems
 - https://www.mlstack.cafe/blog/recommendation-systems-interview-questions
 - https://datascience.stackexchange.com/questions/tagged/recommender-system
+- https://www.interviewbit.com/machine-learning-interview-questions/
