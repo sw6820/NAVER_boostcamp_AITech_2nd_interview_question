@@ -110,6 +110,7 @@
 - Parametric & Non-Parametric 모델 설명
 - 강화학습이 뭔가?
 - Sigmoid vs Softmax 
+
 #### CV
 - OpenCV 라이브러리만을 사용해서 이미지 뷰어(Crop, 흑백화, Zoom 등의 기능 포함)를 만들어주세요
 - 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법은 무엇인가요?
@@ -191,6 +192,7 @@
 - 그 그림에서 오른쪽 파라메터들의 의미는 무엇일까?
 - 남자와 여자가 가까울까? 남자와 자동차가 가까울까?
 - 번역을 Unsupervised로 할 수 있을까?
+
 #### Recommander System
 - 추천 시스템에서 사용할 수 있는 거리는 무엇이 있을까요?
 - User 베이스 추천 시스템과 Item 베이스 추천 시스템 중 단기간에 빠른 효율을 낼 수 있는 것은 무엇일까요?
@@ -227,6 +229,7 @@
 - 강화학습이 어려운 이유는 무엇일까요? 그것을 어떤 방식으로 해결할 수 있을까요?
 - 강화학습을 사용해 테트리스에서 고득점을 얻는 프로그램을 만드려고 합니다. 어떻게 만들어야 할까요?
 - 지도학습 vs 반지도학습 vs 비지도학습 vs 강화학습
+
 #### MLOps
 - MLOps pipeline
 - What is the difference between MLOps, ModelOps & AIOps
