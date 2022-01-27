@@ -4,7 +4,7 @@
 ## AI
 
 ### Deep Learning
-- 딥러닝은 무엇인가요? 딥러닝과 머신러닝의 차이는?
+- 딥러닝은 무엇인가요? 인공지능과 딥러닝과 머신러닝의 차이는?
 - Cost Function과 Activation Function은 무엇인가요?
 - Tensorflow, PyTorch 특징과 차이가 뭘까요?
 - Data Normalization은 무엇이고 왜 필요한가요?
@@ -18,8 +18,10 @@
 - 요즘 Sigmoid 보다 ReLU를 많이 쓰는데 그 이유는?
 - Non-Linearity라는 말의 의미와 그 필요성은?
 - ReLU로 어떻게 곡선 함수를 근사하나?
-- ReLU의 문제점은?
+    - ReLU의 문제점은?
 - Bias는 왜 있는걸까?
+- Bias vs Variance
+    - Bias - Variance tradeoff는 무엇인가   
 - Gradient Descent에 대해서 쉽게 설명한다면?
 - 왜 꼭 Gradient를 써야 할까? 그 그래프에서 가로축과 세로축 각각은 무엇인가? 실제 상황에서는 그 그래프가 어떻게 그려질까?
 - GD 중에 때때로 Loss가 증가하는 이유는?
@@ -31,6 +33,8 @@
 - Validation 세트가 따로 있는 이유는?
 - Test 세트가 오염되었다는 말의 뜻은?
 - Regularization이란 무엇인가?
+    - ML 에서 언제 쓰나
+    - Regularization vs Normalisation vs Standardization
 - Batch Normalization의 효과는?
 - Dropout의 효과는?
 - BN 적용해서 학습 이후 실제 사용시에 주의할 점은? 코드로는?
@@ -53,11 +57,15 @@
 
 ### Machine Learning
 - 알고 있는 metric에 대해 설명해주세요. (ex. RMSE, MAE, recall, precision ...)
+    - Precision
+    - Recall
+    - F1 score
 - 정규화를 왜 해야할까요? 정규화의 방법은 무엇이 있나요?
 - Local Minima와 Global Minima에 대해 설명해주세요.
 - 차원의 저주에 대해 설명해주세요.
 - dimension reduction기법으로 보통 어떤 것들이 있나요?
 - PCA는 차원 축소 기법이면서, 데이터 압축 기법이기도 하고, 노이즈 제거기법이기도 합니다. 왜 그런지 설명해주실 수 있나요?
+    - PCA에서 components의 회전이 중요한 이유
 - LSA, LDA, SVD 등의 약자들이 어떤 뜻이고 서로 어떤 관계를 가지는지 설명할 수 있나요?
 - Markov Chain을 고등학생에게 설명하려면 어떤 방식이 제일 좋을까요?
 - 텍스트 더미에서 주제를 추출해야 합니다. 어떤 방식으로 접근해 나가시겠나요?
@@ -76,7 +84,7 @@
 - Cross Validation은 무엇이고 어떻게 해야하나요?
 - XGBoost을 아시나요? 왜 이 모델이 캐글에서 유명할까요?
 - 앙상블 방법엔 어떤 것들이 있나요?
-- feature vector란 무엇일까요?
+- feature vector란 무엇일까요?tj
 - 좋은 모델의 정의는 무엇일까요?
 - 50개의 작은 의사결정 나무는 큰 의사결정 나무보다 괜찮을까요? 왜 그렇게 생각하나요?
 - 스팸 필터에 로지스틱 리그레션을 많이 사용하는 이유는 무엇일까요?
@@ -86,7 +94,9 @@
     - 지도학습
     - 비지도학습
     - 강화학습
-- Naive bayes 에서 Naive는?
+- Bayes'Theorem?
+- Naive bayes?
+    - Naive bayes 에서 Naive는?
 - PCA를 쓰는 경우
 - SVM 알고리즘 자세히 설명하시오
     - SVM에서 support vectors가 무엇인가
@@ -100,16 +110,47 @@
 - Loss Function & Cost function 정의, 차이점
 - Ensemble Learning이 무엇인가?
 - 어느 ML 알고리즘을 사용할지 어떻게 확신하나
-- Outlier Values를 어떻게 다루나
+- Outlier?
+    - Outlier Values를 어떻게 다루나
 - Random Forest 정의, 작동 방식
 - K-means Clustering에서 K를 어떻게 고르나
 - dataset의 Normality를 확인하는 방법
 - Logistic Regression을 2가지 이상의 클래스에 사용 가능한가?
-- Correlation & Covariance 설명
-- P-value 설명
+- Correlation vs Covariance vs Casuality
 - Parametric & Non-Parametric 모델 설명
 - 강화학습이 뭔가?
 - Sigmoid vs Softmax 
+- time series는 무엇인가요?
+- box-cow transformation?
+- random forest vs gradient boosting
+- confusion matrix? 왜 
+- marginalization?
+    - marginalization 의 process
+- data의 outliers를 다루는 방법
+- 유명한 cross validation 기술들?
+- Fixed Basis Function의 한계
+- EDA technique
+- boosting vs bagging
+- ROC Curve
+- Water Trapping Problem
+- Decision tree 에서 hyper-parameter는?
+- Cross-Validation의 역할?
+- Pandas Profiling
+- KNN에서 사용되는 거리 metric?
+- pipeline이 무엇인가
+- pruning의 이점
+- the degree of freedom?
+- Type I and Type II error
+- utilities fraud detection에 관한 dataset이 있을때, 분류모델을 만들었고 그 모델 성능이 98.5%를 달성했을 때, 좋은 모델인가? 그렇다면 정당화하고, 아니라면 무엇을 할 수 있을까?
+- 주어진 dataset에서 missing value나 corrupted value를 다루는 방법?
+- How do you select important variables while working on a data set? 
+- dataset이 주어졌을 때 사용할 ML 알고리즘을 고르는 방법?
+- Hardware에 ML을 적용하는 방법 
+- A data set is given to you and it has missing values which spread along 1 standard deviation from the mean. How much of the data would remain untouched?
+- Stochastic Gradient Descent(SGD) vs Gradient Descent(GD)?
+- 역전파 사용시 exploding gradient problem은?
+- decision tree의 장단점
+
 
 #### CV
 - OpenCV 라이브러리만을 사용해서 이미지 뷰어(Crop, 흑백화, Zoom 등의 기능 포함)를 만들어주세요
@@ -136,6 +177,14 @@
 - 주어진 CNN과 똑같은 MLP를 만들 수 있나?
 - 풀링시에 만약 Max를 사용한다면 그 이유는?
 - 시퀀스 데이터에 CNN을 적용하는 것이 가능할까?
+- 이미지 처리에서 KNN을 사용하는 것이 가능한가?
+- K-means vs KNN
+- SVM 알고리즘에서 Kernel Trick?
+- OOB error는 무엇이고 어떻게 발생하나?
+-
+
+
+
 #### NLP
 <!-- - Word Representation
     - Bag-of-Word
@@ -170,6 +219,8 @@
 - Contextualized Word Representation (ELMo,CoVe) -->
 
 - One Hot 인코딩에 대해 설명해주세요
+    - one-hot encoding vs label encoding
+    - 데이터셋의 차원에 어떻게 영향을 주나
 - POS 태깅은 무엇인가요? 가장 간단하게 POS tagger를 만드는 방법은 무엇일까요?
 - 문장에서 "Apple"이란 단어가 과일인지 회사인지 식별하는 모델을 어떻게 훈련시킬 수 있을까요?
 - 뉴스 기사에 인용된 텍스트의 모든 항목을 어떻게 찾을까요?
@@ -193,6 +244,7 @@
 - 그 그림에서 오른쪽 파라메터들의 의미는 무엇일까?
 - 남자와 여자가 가까울까? 남자와 자동차가 가까울까?
 - 번역을 Unsupervised로 할 수 있을까?
+
 
 #### Recommander System
 - 추천 시스템에서 사용할 수 있는 거리는 무엇이 있을까요?
@@ -252,6 +304,7 @@
 - 누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요.
 - 조건부 확률은 무엇일까요?
 - 공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요.
+- 데이터의 분산이 높으면 좋을까요 나쁠까요?
 - 신뢰 구간의 정의는 무엇인가요?
 - p-value를 모르는 사람에게 설명한다면 어떻게 설명하실 건가요?
 - R square의 의미는 무엇인가요?
@@ -271,6 +324,17 @@
 - 로그 함수는 어떤 경우 유용합니까? 사례를 들어 설명해주세요.
 - 베르누이 분포 / 이항 분포 / 카테고리 분포 / 다항 분포 / 가우시안 정규 분포 / t 분포 / 카이제곱 분포 / F 분포 / 베타 분포 / 감마 분포에 대해 설명해주세요. 그리고 분포 간의 연관성도 설명해주세요.
 - 출장을 위해 비행기를 타려고 합니다. 당신은 우산을 가져가야 하는지 알고 싶어 출장지에 사는 친구 3명에게 무작위로 전화를 하고 비가 오는 경우를 독립적으로 질문해주세요. 각 친구는 2/3로 진실을 말하고 1/3으로 거짓을 말합니다. 3명의 친구가 모두 “그렇습니다. 비가 내리고 있습니다”라고 말했습니다. 실제로 비가 내릴 확률은 얼마입니까?
+- Linear regression?
+- Eigenvector
+- Eigenvalue
+- multicollinearity를 다루는 법?
+- chi-square test?
+- 표준편차와 분산의 관계
+- 데이터의 분산이 클 때 다루는 방법?
+- Fourier transform?
+- Associative Rule Mining(ARM)의 의미?
+- List the most popular distribution curves along with scenarios where you will use them in an algorithm.
+
 
 ## Reference
 - https://360digitmg.com/mlops-interview-questions-answers
@@ -280,3 +344,5 @@
 - https://www.mlstack.cafe/blog/recommendation-systems-interview-questions
 - https://datascience.stackexchange.com/questions/tagged/recommender-system
 - https://www.interviewbit.com/machine-learning-interview-questions/
+- https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+- https://www.springboard.com/blog/ai-machine-learning/machine-learning-interview-questions/
