@@ -168,6 +168,7 @@
 - Latent Random Variable Models
 - Transfer Learning / Multi-task Learning
 - Contextualized Word Representation (ELMo,CoVe) -->
+
 - One Hot 인코딩에 대해 설명해주세요
 - POS 태깅은 무엇인가요? 가장 간단하게 POS tagger를 만드는 방법은 무엇일까요?
 - 문장에서 "Apple"이란 단어가 과일인지 회사인지 식별하는 모델을 어떻게 훈련시킬 수 있을까요?
