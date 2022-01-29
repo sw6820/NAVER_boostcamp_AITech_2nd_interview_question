@@ -2,7 +2,7 @@
 - Reference 이외의 질문들은 여러 면접시 직접 받은 중복되지 않은 질문들도 섞여있습니다. 
 
 ## AI
-
+### Deep Learning
 ### Deep Learning
 - 딥러닝은 무엇인가요? 인공지능과 딥러닝과 머신러닝의 차이는?
 - Cost Function과 Activation Function은 무엇인가요?
