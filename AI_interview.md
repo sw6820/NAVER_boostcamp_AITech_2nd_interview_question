@@ -10,6 +10,7 @@
 ### Recommender System
 ### Statistics / Math
 
+
 ### Deep Learning
 - 딥러닝은 무엇인가요? 인공지능과 딥러닝과 머신러닝의 차이는?
 - Cost Function과 Activation Function은 무엇인가요?
