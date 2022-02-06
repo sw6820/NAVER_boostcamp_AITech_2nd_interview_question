@@ -181,17 +181,17 @@
 ### Algorithm
 - 시간, 공간 복잡도
 - Sort Algorithm
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Heap Sort
-- Merge Sort
-- Quick Sort
-    - 현실에서 quick 소트를 merge보다 많이 쓰는 이유
-- Counting Sort
-- Bucket Sort
-- Lexicographci Sort
-- Radix Sort
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
+    - Heap Sort
+    - Merge Sort
+    - Quick Sort
+        - 현실에서 quick 소트를 merge보다 많이 쓰는 이유
+    - Counting Sort
+    - Bucket Sort
+    - Lexicographci Sort
+    - Radix Sort
 - Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithm
