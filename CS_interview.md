@@ -167,11 +167,18 @@
 - queue
     - circular queue
     - dequeue
-- graph vs tree
-- binary tree
-    - full binary tree
-    - complete binary tree
-- bst(binary search tree)
+- Graph vs Tree
+    - Graph
+        - directed
+        - undirected
+        - adjacency matrix
+        - adjacency list
+        - Graph Traversal: BFS, DFS
+    - Tree
+        - binary tree
+            - full binary tree
+            - complete binary tree
+        - bst(binary search tree)
 - heap(binary heap)
     - min heap
     - max heap
@@ -195,13 +202,6 @@
 - Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithm
-- Graph
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - Graph Traversal: BFS, DFS
-- Graph vs Tree
 - Binary Heap
 - Shortest Path
     - Dijkstra
