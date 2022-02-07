@@ -202,6 +202,10 @@
     - Bucket Sort
     - Lexicographci Sort
     - Radix Sort
+    - Tim Sort
+    - Tree Sort
+    - Shell Sort
+    - Cube Sort
 - Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithm
