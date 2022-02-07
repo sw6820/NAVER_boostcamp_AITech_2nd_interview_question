@@ -112,6 +112,9 @@
 - TCP와 UDP의 차이를 설명해주세요.
 - TCP와 UDP의 헤더를 비교해주세요.
 - TCP의 3-way-handshake와 4-way-handshake를 비교 설명해주세요.
+    - Q. TCP의 연결 설정 과정(3단계)과 연결 종료 과정(4단계)이 단계가 차이나는 이유?
+    - Q. 만약 Server에서 FIN 플래그를 전송하기 전에 전송한 패킷이 Routing 지연이나 패킷 유실로 인한 재전송 등으로 인해 FIN 패킷보다 늦게 도착하는 상황이 발생하면 어떻게 될까?
+    - Q. 초기 Sequence Number인 ISN을 0부터 시작하지 않고 난수를 생성해서 설정하는 이유?
 - TCP의 연결 설정 과정(3단계)과 연결 종료 과정(4단계)이 단계가 차이나는 이유가 무엇인가요?
 - TCP/IP 흐름제어 & 혼잡제어
 - Frame, Packet, Segment, Datagram을 비교해주세요.
