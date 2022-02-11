@@ -278,7 +278,7 @@
 - What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
 - What are some applications of Recommender Systems?  
 - What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
-- 
+
 
 #### Reinforcement Learning
 - MDP는 무엇일까요?
