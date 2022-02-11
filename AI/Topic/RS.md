@@ -1,0 +1,47 @@
+#### Recommander System
+- 추천 시스템에서 사용할 수 있는 거리는 무엇이 있을까요?
+- User 베이스 추천 시스템과 Item 베이스 추천 시스템 중 단기간에 빠른 효율을 낼 수 있는 것은 무엇일까요?
+- 성능 평가를 위해 어떤 지표를 사용할까요?
+- Explicit Feedback과 Implicit Feedback은 무엇일까요? Impicit Feedback을 어떻게 Explicit하게 바꿀 수 있을까요?
+- Matrix Factorization은 무엇인가요? 해당 알고리즘의 장점과 단점은?
+- SQL으로 조회 기반 Best, 구매 기반 Best, 카테고리별 Best를 구하는 쿼리를 작성해주세요
+- 추천 시스템에서 KNN 알고리즘을 활용할 수 있을까요?
+- 유저가 10만명, 아이템이 100만개 있습니다. 이 경우 추천 시스템을 어떻게 구성하시겠습니까?
+- 딥러닝을 활용한 추천 시스템의 사례를 알려주세요
+- 두 추천엔진간의 성능 비교는 어떤 지표와 방법으로 할 수 있을까요? 검색엔진에서 쓰던 방법을 그대로 쓰면 될까요? 안될까요?
+- Collaborative Filtering에 대해 설명한다면?#### Recommander System
+- 추천 시스템에서 사용할 수 있는 거리는 무엇이 있을까요?
+- User 베이스 추천 시스템과 Item 베이스 추천 시스템 중 단기간에 빠른 효율을 낼 수 있는 것은 무엇일까요?
+- 성능 평가를 위해 어떤 지표를 사용할까요?
+- Explicit Feedback과 Implicit Feedback은 무엇일까요? Impicit Feedback을 어떻게 Explicit하게 바꿀 수 있을까요?
+- Matrix Factorization은 무엇인가요? 해당 알고리즘의 장점과 단점은?
+- SQL으로 조회 기반 Best, 구매 기반 Best, 카테고리별 Best를 구하는 쿼리를 작성해주세요
+- 추천 시스템에서 KNN 알고리즘을 활용할 수 있을까요?
+- 유저가 10만명, 아이템이 100만개 있습니다. 이 경우 추천 시스템을 어떻게 구성하시겠습니까?
+- 딥러닝을 활용한 추천 시스템의 사례를 알려주세요
+- 두 추천엔진간의 성능 비교는 어떤 지표와 방법으로 할 수 있을까요? 검색엔진에서 쓰던 방법을 그대로 쓰면 될까요? 안될까요?
+- Collaborative Filtering에 대해 설명한다면?
+- Cold Start의 경우엔 어떻게 추천해줘야 할까요?
+- 고객사들은 기존 추천서비스에 대한 의문이 있습니다. 주로 매출이 실제 오르는가 하는 것인데, 이를 검증하기 위한 방법에는 어떤 것이 있을까요? 위 관점에서 우리 서비스의 성능을 고객에게 명확하게 인지시키기 위한 방법을 생각해봅시다.
+- What are Recommendation Systems?  
+- What is the difference between Collaborative and Content based Recommender Systems?  
+- What is a Model-Based Collaborative approach?  
+- What are some Domain-Specific Challenges in Recommender Systems?  
+- What are the basic components of a Content-Based System?
+- How are Knowledge-based Recommender Systems different from Collaborative and Content-based Recommender Systems?  
+- What are some applications of Recommender Systems?  
+- What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
+- What are some applications of Recommender Systems?  
+- What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
+- Cold Start의 경우엔 어떻게 추천해줘야 할까요?
+- 고객사들은 기존 추천서비스에 대한 의문이 있습니다. 주로 매출이 실제 오르는가 하는 것인데, 이를 검증하기 위한 방법에는 어떤 것이 있을까요? 위 관점에서 우리 서비스의 성능을 고객에게 명확하게 인지시키기 위한 방법을 생각해봅시다.
+- What are Recommendation Systems?  
+- What is the difference between Collaborative and Content based Recommender Systems?  
+- What is a Model-Based Collaborative approach?  
+- What are some Domain-Specific Challenges in Recommender Systems?  
+- What are the basic components of a Content-Based System?
+- How are Knowledge-based Recommender Systems different from Collaborative and Content-based Recommender Systems?  
+- What are some applications of Recommender Systems?  
+- What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
+- What are some applications of Recommender Systems?  
+- What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
