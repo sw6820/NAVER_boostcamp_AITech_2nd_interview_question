@@ -189,7 +189,6 @@
 - K-means vs KNN
 - SVM 알고리즘에서 Kernel Trick?
 - OOB error는 무엇이고 어떻게 발생하나?
--
 
 
 
