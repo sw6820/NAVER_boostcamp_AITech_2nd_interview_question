@@ -1,0 +1,60 @@
+
+#### NLP
+<!-- - Word Representation
+    - Bag-of-Word
+    - TF-IDF
+    - BM25
+    - Word2Vec
+    - GloVe
+    - FastText
+- Text Classification
+    - Sentiment Analysis
+    - Document Classification
+    - Intent Classification
+- Semantic/Syntatic Parsing
+    - Named Entity Recognition
+    - Semantic Role Labeling
+    - Relation / Information Extraction
+    - POS Tagging
+    - Constituency Parsing
+    - Dependency Parsing
+- Disambiguation
+    - Word-Sense Deambigution
+    - Coreference Resolution
+- Language Model
+- Sequence Transduction
+    - Machine Translation
+    - Dialogue System
+    - Summarization
+    - Paraphrasing
+- Advanced Attention mechanism
+- Latent Random Variable Models
+- Transfer Learning / Multi-task Learning
+- Contextualized Word Representation (ELMo,CoVe) -->
+
+- One Hot 인코딩에 대해 설명해주세요
+    - one-hot encoding vs label encoding
+    - 데이터셋의 차원에 어떻게 영향을 주나
+- POS 태깅은 무엇인가요? 가장 간단하게 POS tagger를 만드는 방법은 무엇일까요?
+- 문장에서 "Apple"이란 단어가 과일인지 회사인지 식별하는 모델을 어떻게 훈련시킬 수 있을까요?
+- 뉴스 기사에 인용된 텍스트의 모든 항목을 어떻게 찾을까요?
+- 음성 인식 시스템에서 생성된 텍스트를 자동으로 수정하는 시스템을 어떻게 구축할까요?
+- 잠재론적, 의미론적 색인은 무엇이고 어떻게 적용할 수 있을까요?
+- 영어 텍스트를 다른 언어로 번역할 시스템을 어떻게 구축해야 할까요?
+- 뉴스 기사를 주제별로 자동 분류하는 시스템을 어떻게 구축할까요?
+- Stop Words는 무엇일까요? 이것을 왜 제거해야 하나요?
+- 영화 리뷰가 긍정적인지 부정적인지 예측하기 위해 모델을 어떻게 설계하시겠나요?
+- TF-IDF 점수는 무엇이며 어떤 경우 유용한가요?
+- 한국어에서 많이 사용되는 사전은 무엇인가요?
+- Regular grammar는 무엇인가요? regular expression과 무슨 차이가 있나요?
+- RNN에 대해 설명해주세요
+- LSTM은 왜 유용한가요?
+- Translate 과정 Flow에 대해 설명해주세요
+- n-gram은 무엇일까요?
+- PageRank 알고리즘은 어떻게 작동하나요?
+- depedency parsing란 무엇인가요?
+- Word2Vec의 원리는?
+- 그 그림에서 왼쪽 파라메터들을 임베딩으로 쓰는 이유는?
+- 그 그림에서 오른쪽 파라메터들의 의미는 무엇일까?
+- 남자와 여자가 가까울까? 남자와 자동차가 가까울까?
+- 번역을 Unsupervised로 할 수 있을까?
