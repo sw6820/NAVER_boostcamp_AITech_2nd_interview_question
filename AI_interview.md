@@ -3,7 +3,7 @@
 
 ## AI
 ### Deep Learning
-### Machine Learning
+### [Machine Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/ML.md)
 ### CV
 ### NLP
 ### Reinforce Learning
