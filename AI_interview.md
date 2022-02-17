@@ -2,7 +2,7 @@
 - Reference 이외의 질문들은 여러 면접시 직접 받은 중복되지 않은 질문들도 섞여있습니다. 
 
 ## AI
-### Deep Learning
+### [Deep Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/DL.md)
 ### [Machine Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/ML.md)
 ### CV
 ### NLP
