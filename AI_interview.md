@@ -5,7 +5,7 @@
 ### [Deep Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/DL.md)
 ### [Machine Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/ML.md)
 ### [CV](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/CV.md)
-### NLP
+### [NLP](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/NLP.md)
 ### Reinforce Learning
 ### Recommender System
 ### Statistics / Math
