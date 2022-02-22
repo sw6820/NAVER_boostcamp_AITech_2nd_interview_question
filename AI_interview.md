@@ -7,7 +7,7 @@
 ### [CV](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/CV.md)
 ### [NLP](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/NLP.md)
 ### [Reinforce Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/RL.md)
-### Recommender System
+### [Recommender System](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/RS.md)
 ### Statistics / Math
 
 
