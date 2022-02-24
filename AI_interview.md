@@ -8,6 +8,7 @@
 ### [NLP](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/NLP.md)
 ### [Reinforce Learning](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/RL.md)
 ### [Recommender System](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/RS.md)
+### MLOps
 ### [Statistics / Math](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question/blob/main/AI/Topic/Statistics_Math.md)
 
 
