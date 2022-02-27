@@ -279,19 +279,6 @@
 - What are some applications of Recommender Systems?  
 - What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
 
-
-#### Reinforcement Learning
-- MDP는 무엇일까요?
-- 가치함수는 무엇일까요? 수식으로도 표현해주세요
-- 벨만 방정식은 무엇일까요? 수식으로도 표현해주세요
-- 강화학습에서 다이나믹 프로그래밍은 어떤 의미를 가질까요? 한계점은 무엇이 있을까요?
-- 몬테카를로 근사는 무엇일까요? 가치함수를 추정할 때 어떻게 사용할까요?
-- Value-based Reinforcement Learning과 Policy based Reinforcement Learning는 무엇이고 어떤 관계를 가질까요?
-- 강화학습이 어려운 이유는 무엇일까요? 그것을 어떤 방식으로 해결할 수 있을까요?
-- 강화학습을 사용해 테트리스에서 고득점을 얻는 프로그램을 만드려고 합니다. 어떻게 만들어야 할까요?
-- 지도학습 vs 반지도학습 vs 비지도학습 vs 강화학습
-
-
 ## Reference
 - https://360digitmg.com/mlops-interview-questions-answers
 - https://github.com/zzsza/Datascience-Interview-Questions?fbclid=IwAR1sVmRVTTRq73bwxHriYNyxDJG5mJzmtjQB01-jh16OefLFJCQsCyp7lf8
