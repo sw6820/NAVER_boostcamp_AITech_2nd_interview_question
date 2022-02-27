@@ -291,23 +291,6 @@
 - 강화학습을 사용해 테트리스에서 고득점을 얻는 프로그램을 만드려고 합니다. 어떻게 만들어야 할까요?
 - 지도학습 vs 반지도학습 vs 비지도학습 vs 강화학습
 
-#### MLOps
-- MLOps pipeline
-- What is the difference between MLOps, ModelOps & AIOps
-- Define MLOps and how is it different from Data Science?
-- What is the difference between MLOps and DevOps?
-- What is the difference between MLOps and DataOps?
-- What are the risks associated with Data Science & how MLOps can overcome the same?
-- Is model deployment end of ML lifecycle?
-- What is MLOps?
-- What are the benefits of MLOps?
-- How do you create infrastructure for MLOps?
-- How to create CI/CD pipelines for machine learning?
-- Explain about model/concept drift.
-
-
-
-
 
 ## Reference
 - https://360digitmg.com/mlops-interview-questions-answers
