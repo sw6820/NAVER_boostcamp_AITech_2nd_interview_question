@@ -160,39 +160,6 @@
 - 역전파 사용시 exploding gradient problem은?
 - decision tree의 장단점
 
-
-#### CV
-- OpenCV 라이브러리만을 사용해서 이미지 뷰어(Crop, 흑백화, Zoom 등의 기능 포함)를 만들어주세요
-- 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법은 무엇인가요?
-- Fatser R-CNN의 장점과 단점은 무엇인가요?
-- dlib은 무엇인가요?
-- YOLO의 장점과 단점은 무엇인가요?
-- 제일 좋아하는 Object Detection 알고리즘에 대해 설명하고 그 알고리즘의 장단점에 대해 알려주세요
-    - 그 이후에 나온 더 좋은 알고리즘은 무엇인가요?
-- Average Pooling과 Max Pooling의 차이점은?
-- Deep한 네트워크가 좋은 것일까요? 언제까지 좋을까요?
-- Residual Network는 왜 잘될까요? Ensemble과 관련되어 있을까요?
-- CAM(Class Activation Map)은 무엇인가요?
-- Localization은 무엇일까요?
-- 자율주행 자동차의 원리는 무엇일까요?
-- Semantic Segmentation은 무엇인가요?
-- Visual Q&A는 무엇인가요?
-- Image Captioning은 무엇인가요?
-- Fully Connected Layer의 기능은 무엇인가요?
-- Neural Style은 어떻게 진행될까요?
-- CNN에 대해서 아는대로 얘기하라
-- CNN이 MLP보다 좋은 이유는?
-- 어떤 CNN의 파라미터 개수를 계산해 본다면?
-- 주어진 CNN과 똑같은 MLP를 만들 수 있나?
-- 풀링시에 만약 Max를 사용한다면 그 이유는?
-- 시퀀스 데이터에 CNN을 적용하는 것이 가능할까?
-- 이미지 처리에서 KNN을 사용하는 것이 가능한가?
-- K-means vs KNN
-- SVM 알고리즘에서 Kernel Trick?
-- OOB error는 무엇이고 어떻게 발생하나?
-
-
-
 #### NLP
 <!-- - Word Representation
     - Bag-of-Word
