@@ -127,7 +127,7 @@
 - CORS가 무엇인가요?
 - 쿠키(Cookie)와 세션(Session)을 설명해주세요.
 - DNS가 무엇인가요?
-- DNS round robin 방식
+    - DNS round robin 방식
 - 웹 통신 큰 흐름
 - TLS/SSL handshake
 - 로드 밸런싱(Load Balancing)
